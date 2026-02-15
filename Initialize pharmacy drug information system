@@ -1,0 +1,4 @@
+- Added core project structure for a pharmacy drug information system
+- Included initial drug data models and information logic
+- Set up repository for future expansion (interactions, dosing, warnings)
+- Intended for educational and clinical decision-support prototyping

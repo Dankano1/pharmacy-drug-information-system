@@ -1,0 +1,3 @@
+- Enabled conditional checks based on patient age, pregnancy, and comorbidities
+- Integrated warnings dynamically based on patient profile
+- Enhanced personalized safety guidance

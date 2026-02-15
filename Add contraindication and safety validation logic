@@ -1,0 +1,3 @@
+- Implemented checks for contraindicated conditions
+- Added safety warnings for high-risk drug use
+- Improved error handling for unsafe prescriptions

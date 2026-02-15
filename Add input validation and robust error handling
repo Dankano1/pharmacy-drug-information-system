@@ -1,0 +1,3 @@
+- Validated drug names and required fields
+- Added user-friendly error messages
+- Prevented invalid or incomplete drug queries

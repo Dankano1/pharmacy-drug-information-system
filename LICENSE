@@ -19,3 +19,26 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+Save ✔️
+
+---
+
+## PART 5: Sample Pharmacy Code (Beginner-Friendly)
+
+Create `src/drug_info.py`:
+
+```python
+class Drug:
+    def __init__(self, name, indication, dose, contraindications):
+        self.name = name
+        self.indication = indication
+        self.dose = dose
+        self.contraindications = contraindications
+
+    def display_info(self):
+        print(f"Drug: {self.name}")
+        print(f"Indication: {self.indication}")
+        print(f"Dose: {self.dose}")
+        print("Contraindications:")
+        for item in self.contraindications:
+            print(f"- {item}")

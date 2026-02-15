@@ -1,0 +1,3 @@
+- Separated data, logic, and validation layers
+- Improved code maintainability
+- Prepared system for API or UI integration

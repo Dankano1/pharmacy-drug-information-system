@@ -1,0 +1,3 @@
+- Created a structured drug data schema
+- Included fields for name, indication, dosage, contraindications, and warnings
+- Ensured consistency for future clinical logic and validation

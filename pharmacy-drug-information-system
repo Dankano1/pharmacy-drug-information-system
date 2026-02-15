@@ -1,0 +1,19 @@
+pharmacy-drug-information-system/
+│── README.md
+│── LICENSE
+│── .gitignore
+│
+├── data/
+│   └── drugs_sample.json
+│
+├── src/
+│   ├── drug_info.py
+│   ├── interactions.py
+│   └── dosing.py
+│
+├── docs/
+│   ├── clinical_notes.md
+│   └── references.md
+│
+└── tests/
+    └── test_drug_info.py

@@ -1,0 +1,3 @@
+- Implemented token-based authentication
+- Restricted access to sensitive endpoints
+- Prepared groundwork for role-based permissions

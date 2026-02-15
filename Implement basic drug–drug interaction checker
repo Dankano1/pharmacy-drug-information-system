@@ -1,0 +1,3 @@
+- Added logic to detect potential drug–drug interactions
+- Categorized interactions by severity
+- Returned clear warnings for unsafe combinations

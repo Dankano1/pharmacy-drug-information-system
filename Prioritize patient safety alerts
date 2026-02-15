@@ -1,0 +1,3 @@
+- Critical alerts now appear first in outputs
+- Severity scores reflected in warnings
+- Ensured high-risk interactions cannot be missed
